@@ -1,0 +1,132 @@
+header {
+    background-color: #white;
+    padding: 90px;
+}
+
+nav {
+    background-color: white;
+    text-align: right;
+    font-weight: 800;
+    text-decoration: none;
+    color: #00000;
+}
+
+aside {
+    background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+div / section {
+	background-color: #FFE2B8;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 800;
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 46px;
+    margin: 0;
+}
+
+h2 {
+    text-align: right;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    font-size: 12px;
+    text-decoration: : none;
+    padding: 10px 20px 10px 20px;
+    word-spacing: 20px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #00000;
+}
+
+p {
+    text-align: center;
+    font-family: 'Quattrocento', serif;
+    font-size: 14px;
+    line-height: 1.6em;
+}
+
+<ul> {
+    list-style: none;
+    display: block;
+    padding-left: 40px;
+    font-weight: 800;
+    text-decoration: : none;
+    color: #00000;
+}
+
+a {
+    color: #00000;
+    text-decoration: none;
+}
+
+
+#two_column {
+    background-color: #white;
+    padding: 20px;
+}
+
+#left {
+    background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 50%;
+}
+
+#right {
+    background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;
+    width: 30%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+#subheader {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 1000;
+    text-align: center;
+    color: #fdbb07;
+    letter-spacing: 0.05em;
+}
+
+#myname {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    text-align: center;
+}
+
+#introtext {
+    text-align: center;
+    font-family: 'Quattrocento', serif;
+    font-size: 16px;
+    line-height: 1.6em;
+    color: grey;
+    margin: 10px 300px 20px 300px;
+}
