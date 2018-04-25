@@ -12,8 +12,6 @@ nav {
 }
 
 aside {
-    background-color: #FFC675;
-    border: 1px black solid;
     padding: 20px;
 }
 
@@ -84,11 +82,11 @@ a {
 }
 
 #left {
-    background-color: #E582A2;
-    border: 1px black solid;
+    background-color: #white;
     padding: 20px;
     float: left;
-    width: 50%;
+    width: 48%;
+    background-image: url(https://zachdyson.github.io/unit_06/images/OZITO_WEB_COVER.png)
 }
 
 #right {
